@@ -21,6 +21,7 @@ Switch between lanes by clicking on the lane number `1`, `2`, `3` or `4`.
 
 For example to switch to lane 1 press `1` on the keyboard
 
-![image](https://user-images.githubusercontent.com/86183775/128478797-1dc0f5a8-510f-41bd-bc5a-05af0b6645d7.png)
+![image (2)](https://user-images.githubusercontent.com/86183292/130158712-ce00d0d1-6248-4d09-90f1-ecd25533ad8f.png)
+
 
 ## Enjoy!!
